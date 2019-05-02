@@ -1,0 +1,21 @@
+/* Adiciona a fonte do tipo otf */
+@font-face {
+    font-family: Cocogoose;
+    src: url("Cocogoose-Pro-Thin-trial.ttf") format("opentype");
+}
+@font-face {
+	font-family: Cocogoose;
+	font-weight: bold;
+    src: url("Cocogoose-Pro-trial.ttf") format("opentype");
+}
+@font-face {
+	font-family: Cocogoose;
+	font-style: italic;
+    src: url("Cocogoose-Pro-Thin-Italic-trial.ttf") format("opentype");
+}
+@font-face {
+	font-family: Cocogoose;
+	font-weight: bold;
+	font-style: italic;
+    src: url("Cocogoose-Pro-Italic-trial.ttf") format("opentype");
+}

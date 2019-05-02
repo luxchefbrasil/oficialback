@@ -1,0 +1,5 @@
+/* Adiciona a fonte do tipo otf */
+@font-face {
+    font-family: Neoneon;
+    src: url("Neoneon.otf") format("opentype");
+}

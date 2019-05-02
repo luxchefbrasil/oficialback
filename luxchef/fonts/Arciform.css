@@ -1,0 +1,5 @@
+/* Adiciona a fonte do tipo otf */
+@font-face {
+    font-family: Arciform;
+    src: url("Arciform.otf") format("opentype");
+}

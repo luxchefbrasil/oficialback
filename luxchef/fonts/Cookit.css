@@ -1,0 +1,5 @@
+/* Adiciona a fonte do tipo otf */
+@font-face {
+    font-family: Cookit;
+    src: url("Cookit-Regular.otf") format("opentype");
+}

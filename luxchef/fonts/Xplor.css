@@ -1,0 +1,5 @@
+/* Adiciona a fonte do tipo otf */
+@font-face {
+    font-family: Xplor;
+    src: url("XPLOR-Bold-Regular.otf") format("opentype");
+}

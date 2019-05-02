@@ -1,0 +1,5 @@
+/* Adiciona a fonte do tipo otf */
+@font-face {
+    font-family: Century Gothic;
+    src: url("Century-Gothic.ttf") format("opentype");
+}

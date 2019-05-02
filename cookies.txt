@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+chefmasters.com.br	TRUE	/	FALSE	1999999999	visitante_5644_952	id_pagina%3D929%26data%3D2019-05-02+21%3A33%3B
+
